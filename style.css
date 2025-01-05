@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+.image{
+    
+    margin: 0 auto;
+    display: block;
+    border-radius: 50%;
+}
+
+.form-control.me-2{
+    margin-left:170px
+}
+
