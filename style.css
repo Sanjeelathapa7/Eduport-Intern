@@ -128,10 +128,9 @@ p {
 }
 
 
-.nav-item.dropdown:hover .dropdown-menu{
-  color:blue ; /* Change text color on hover */
-  background-color: white; /* Change background color on hover */
-  border-radius: 5px; /* Optional: Add rounded corners for aesthetics */
-  transition: all 0.3s ease; /* Smooth hover effect */
+.divider {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-
