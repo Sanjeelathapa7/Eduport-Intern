@@ -30,6 +30,7 @@ p {
   font-weight: 500;
 }
 
+
 .container {
   margin-left: 70px;
   margin-top: 80px;
@@ -134,3 +135,38 @@ p {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+
+.medbox{
+  color: rgb(7, 205, 227);
+  background-color: #43b6c1;
+  width: 101%;
+  height: 200px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-top: 55px;}
+
+
+  .textt{
+    font-size: 28px;
+    color: white;
+    font-weight: 500;
+    /* margin-left: 90px; */
+    align-items: center;
+
+  }
+
+
+  .language-dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  
+  .language-dropdown span {
+    color: grey;
+    font-size: 16px;
+  }
+  
+  .language-dropdown .dropdown-menu li:hover {
+    background-color: #f0f0f0;
+  }
+  
